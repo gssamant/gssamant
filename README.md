@@ -16,7 +16,7 @@
 <code><img height="40" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
 <code><img height="40" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
 
-
+<!--
 ### 🚀 Quick Stats
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gssamant&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -28,3 +28,4 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gssamant)
+-->
